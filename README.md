@@ -1,4 +1,4 @@
-# Anycubic-i3-mega-Ai3M-marlin-latest
+# Anycubic-i3-mega-Ai3M-marlin-2.1.3-beta3
 I am gonna to record the changes of the latest version of marlin for hardware  
 3D printer：Anycubic i3 mega  
 motherboard：trigorilla pro (stm32f103, not mega2560)  
